@@ -12,6 +12,8 @@
 
 The program compiles and runs on both **Windows and Linux OS**.
 
+**Make** tool is required for compilation.
+
 ### For Windows OS
 1.  **cl compiler** (download the Build Tools for Visual Studio)
 2.  **gnuplot**
