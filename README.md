@@ -1,7 +1,5 @@
 # Whetstone benchmarking for Multicore CPU
 
-## History
-
 **Whetstone benchmark** is a **synthetic benchmark** for evaluating the performance of computers. It was originally written in Algol 60 in 1972 by Curnow, H.J. and Wichman, B.A (**see paper in docs directory**). Performance is measured in Millions of Whetstone Instructions Per Second (**MWIPS**). It primarily measures the floating-point arithmetic performance.
 
 **Text from wikipedia article on Whetstone (benchmark)** "The workload on the machine was represented as a set of frequencies of execution of the 124 instructions of the Whetstone Code, a set of 42 simple ALGOL 60 statements, which in a suitable combination matched the execution statistics."
